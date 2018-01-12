@@ -17,4 +17,4 @@ Very minimal libraries were used:
 - Numpy
 - pprint (print formatting)
 
-- Mark Parayil
+-Mark Parayil
